@@ -10,7 +10,7 @@
         }
     ],
     "env": {
-        "APP_NAME": "Laravel Vercel",
+        "APP_NAME": "btn-femizoo",
         "APP_ENV": "production",
         "APP_DEBUG": "true",
         "APP_URL": "https://btn-femizoo.vercel.app",
